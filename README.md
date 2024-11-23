@@ -6,7 +6,7 @@ And that includes **YOU!**
 
 Game-making may seem like a daunting task, but I *super-duper-pinky-promise* that you have what it takes. Games are a wonderful opportunity for creativity to run wild, to express yourself, and to connect with others, and today we’re gonna learn to make a simple platformer game about a hungry monkey together.
 
-![alt text](image.png)
+![Preview](image.png)
 
 ## Getting Started
 
@@ -86,12 +86,12 @@ Alright, let’s take a  step back to look at what we’ve made so far. Two minu
 
 ## Graphics ✨
 Let’s import some snazzy graphics for our monkey game. Create a new folder in VS Code called `hungry_monkey_sprites`. Now download the following `.png` files that’ll serve as the pixel art for our game:  Pixel Art (Download each png, then move into hungry_monkey_sprites folder)
-![alt text](image-1.png)
+![Monkey on Platform](image-1.png)
 
 (If you want to make your own pixel art, [piskelapp.com](http://piskelapp.com) is a great resource.)
 
 Once you’ve downloaded all eight `.png`  files, drag and drop them individually into your newly made `hungry_monkey_sprites` folder so we can access them later. Your file should look something like this (make sure each file’s name matches this example to avoid issues when importing these graphics alter):
-![alt text](image-2.png)
+![Files](image-2.png)
 
 ## Variables
 Now, back to our `hungry_monkey.py` file. Let’s define a whole bunch of global variables just above where we defined the `game_loop()` function. These’ll make our code a lot more readable and adjustable down the road.
@@ -342,7 +342,7 @@ def game_loop():
 
 ## You’ve Just Made a Game! 🎉
 Boom! We just made our Hungry Monkey game! Try running the file now. If everything’s typed in correctly, a window should pop up where you can play the game. Remember, use space to jump and the A and D keys to move left and right.
-![alt text](image-3.png)
+![Monkey](image-3.png)
 
 
 ## Now to Add Your Own Pizzazz
